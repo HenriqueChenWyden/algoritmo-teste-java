@@ -1,11 +1,10 @@
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args){
         // Inicia o Scanner
         Scanner sc1 = new Scanner(System.in);
-        double n1, n2, n3;
+        double n1, n2;
         double media, soma;
 
         System.out.println("Bem vindo!");
