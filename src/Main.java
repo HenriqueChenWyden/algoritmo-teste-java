@@ -4,10 +4,11 @@ public class Main {
     public static void main(String[] args) {
         // Inicia o Scanner
         Scanner sc1 = new Scanner(System.in);
+        // Definido os valores
         double n1, n2;
         double media, soma;
         String nome, sobrenome;
-
+        // Início do Programa em si
         System.out.println("Bem vindo!");
 
         System.out.print("Seu nome: ");
